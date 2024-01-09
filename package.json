@@ -1,0 +1,16 @@
+{
+  "name": "threejslearning",
+  "version": "1.0.0",
+  "description": "This repo is for my excersices in the three.js jorney course",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.0.11"
+  }
+}
