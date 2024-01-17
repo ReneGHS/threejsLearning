@@ -37,7 +37,7 @@ fontLoader.load(
     (font) =>
     {
         const textGeometry = new TextGeometry(
-            'Hello Three.js',
+            'FULL STACK DEVELOPER :P',
             {
                 font: font,
                 size: 0.5,
